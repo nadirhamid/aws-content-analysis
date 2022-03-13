@@ -6,7 +6,7 @@
       variant="dark"
     >
       <b-navbar-brand to="/">
-      Coorg.ai Content Analysis
+      <img src="https://coorgai.s3.us-west-2.amazonaws.com/coorg-logo.png" height="60"/>
       </b-navbar-brand>
       <b-navbar-toggle target="nav-collapse" />
 
